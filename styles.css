@@ -132,6 +132,7 @@ header .fa{
         width: 100%;
     }
     header .fa-bars{
+        display: block;
         color: white;
         font-size: 40px;
         padding-top: 10px;
